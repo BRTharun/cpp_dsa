@@ -1,0 +1,1 @@
+cout<<"swap of c and d -> "<< swap(c,d);
