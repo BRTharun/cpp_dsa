@@ -1,2 +1,2 @@
- // clearLastIbits(n,i);
-    // cout<<n<<endl;
+int mask=(m<<i);
+    n=n|mask;
