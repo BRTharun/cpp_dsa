@@ -10,6 +10,6 @@ int main(){
     }
     string key;
     cin>>key;
-    cout<<t.seach(key)<<endl;
+    cout<<"searched element "<<t.seach(key)<<endl;
 
 }
