@@ -55,6 +55,6 @@ int main(){
     g.insert(0,3,7);
     g.insert(3,2,2);
     g.insert(3,4,3);
-    cout<<g.dijikshtra(0,4)<<endl;
+    cout<<"shortes distance is "<<g.dijikshtra(0,4)<<endl;
 
 }
